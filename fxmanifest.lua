@@ -7,6 +7,10 @@ author 'AnnaLou. <https://discordapp.com/users/585839151564193812>'
 description 'Annalouu | Engines'
 github 'https://github.com/Annalouu/an-engines'
 
+server_scripts {
+  -- Server Events
+  'sv_versionCheck.lua',
+}
 
 files {
   'audioconfig/*.dat151.rel',
