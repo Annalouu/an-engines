@@ -1,5 +1,5 @@
 --[[ Version Checker ]] --
-local version = "320"
+local version = "100"
 
 local DISCORD_WEBHOOK = ""
 local DISCORD_NAME = "AN - ENGINES"
